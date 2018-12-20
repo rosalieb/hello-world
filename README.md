@@ -6,7 +6,3 @@ Here you go.
 
 Rosalie (8th January 2017)
 
-Here I'm adding a new commit on November 15th, 2018.
-And I'm in fact adding a second one.
-
-Wait I want to add this too!
